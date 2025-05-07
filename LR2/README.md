@@ -4,6 +4,6 @@
 
 Получившийся отчёт сохранить в формате Apache Parquet.
 
-<img src="/LR2/LR.png" width="200"/>
+<img src="/LR2/LR2.png" width="200"/>
 
 Для выполнения задания вы можете использовать любую комбинацию Spark API: RDD API, Dataset API, SQL API.
